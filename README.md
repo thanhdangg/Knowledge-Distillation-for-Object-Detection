@@ -1,1 +1,1 @@
-# Knowledge-Distillation-for-Object-Detection
+# Knowledge Distillation for Object Detection
